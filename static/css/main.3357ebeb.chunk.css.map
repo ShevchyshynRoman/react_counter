@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,sBACE,iBAAkB","file":"main.3357ebeb.chunk.css","sourcesContent":[".btn:not(:last-child) {\n  margin-right: 10px;\n}\n"]}
